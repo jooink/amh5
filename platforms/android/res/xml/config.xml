@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.jooink.autostrade.cordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <name>Autostrade CordovA</name>
+    <description>
+        A sample Apache Cordova + WebStarterKit + Angular app
+    </description>
+    <author email="alberto@jooink.com" href="http://cordova.io">
+        Alberto
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
