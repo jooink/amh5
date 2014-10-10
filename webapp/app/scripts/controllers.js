@@ -27,7 +27,7 @@ angular.module('myApp.controllers', [])
   		}, function(e) { win.alert("ERROR " +  JSON.stringify(e));}); };
 
 
-      $scope.save =   function(e) { store.put(e) ; $location.path('/show') };
+      $scope.save =   function(e) { store.put(e) ; $location.path('/show'); };
 
       $scope.forecast = forecast;
 

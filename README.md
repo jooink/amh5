@@ -4,7 +4,7 @@ Sample Application: Google Web Starter Kit + Angular + Cordova
 
 Based on: web-starter-kit, rafriki/angular-seed-web-starter-kit 
 
-How to run: (having node, ruby & sass installed)
+How to run: (having node, ruby, sass, cordova & ADT installed)
 
 <pre>
 - checkout
